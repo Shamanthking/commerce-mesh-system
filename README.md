@@ -1,7 +1,3 @@
-Here is your **clean README (no emojis, professional format)** — just copy and paste:
-
----
-
 ```markdown
 # Commerce Mesh System (Microservices E-Commerce Backend)
 
@@ -151,6 +147,3 @@ Shamanth M
 Intern - Geekwick TechMedia Services
 ```
 
----
-
-If you want, I can also give you a **short version README (one-page)** or **resume project description**.
